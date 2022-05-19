@@ -20,3 +20,4 @@ bin/
 
 # Unignore all `.exe` in `bin` dir
 !*/bin/*.exe
+.DS_Store
